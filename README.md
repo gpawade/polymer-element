@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/gpawade/polymer-element.svg?branch=master)](https://travis-ci.org/gpawade/polymer-element)
+
 # \<my-el\>
 
 test elememnt
